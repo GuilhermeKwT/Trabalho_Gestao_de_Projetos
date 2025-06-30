@@ -1,1 +1,1 @@
-# Trabalho_Gestao_de_Projetos
+# Trabalho de Gestao de Projetos
